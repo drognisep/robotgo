@@ -13,7 +13,7 @@ go get -u github.com/go-vgo/robotgo
 package main
 
 import (
-	"github.com/go-vgo/robotgo"
+	"github.com/drognisep/robotgo"
 )
 
 func main() {
@@ -32,7 +32,7 @@ package main
 import (
   "fmt"
 
-  "github.com/go-vgo/robotgo"
+  "github.com/drognisep/robotgo"
 )
 
 func main() {
@@ -64,7 +64,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/go-vgo/robotgo"
+	"github.com/drognisep/robotgo"
 )
 
 func main() {
@@ -83,7 +83,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/go-vgo/robotgo"
+	"github.com/drognisep/robotgo"
 )
 
 func main() {
@@ -107,7 +107,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/go-vgo/robotgo"
+	"github.com/drognisep/robotgo"
 )
 
 func main() {
@@ -131,7 +131,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/go-vgo/robotgo"
+	"github.com/drognisep/robotgo"
 )
 
 func main() {

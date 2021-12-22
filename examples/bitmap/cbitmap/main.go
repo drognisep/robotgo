@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/go-vgo/robotgo"
+	"github.com/drognisep/robotgo"
 )
 
 func main() {

@@ -20,7 +20,7 @@ See Requirements:
 Installation:
 With Go module support (Go 1.11+), just import:
 ```go
-	import "github.com/go-vgo/robotgo"
+	import "github.com/drognisep/robotgo"
 ```
 
 Otherwise, to install the robotgo package, run the command:
@@ -64,7 +64,7 @@ import (
 	// "syscall"
 	"math/rand"
 
-	"github.com/go-vgo/robotgo/clipboard"
+	"github.com/drognisep/robotgo/clipboard"
 	"github.com/vcaesar/tt"
 )
 

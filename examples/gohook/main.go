@@ -13,7 +13,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/go-vgo/robotgo"
+	"github.com/drognisep/robotgo"
 	hook "github.com/robotn/gohook"
 )
 

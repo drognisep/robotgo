@@ -14,7 +14,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/go-vgo/robotgo"
+	"github.com/drognisep/robotgo"
 )
 
 func aRobotgo() {

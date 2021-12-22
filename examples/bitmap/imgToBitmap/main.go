@@ -7,7 +7,7 @@ import (
 	_ "embed"
 	"fmt"
 
-	"github.com/go-vgo/robotgo"
+	"github.com/drognisep/robotgo"
 	"github.com/vcaesar/imgo"
 )
 

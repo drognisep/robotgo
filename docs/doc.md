@@ -526,7 +526,7 @@ package main
 import (
     "fmt"
 
-    "github.com/go-vgo/robotgo"
+    "github.com/drognisep/robotgo"
 )
 
 func main() {

@@ -14,7 +14,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/go-vgo/robotgo"
+	"github.com/drognisep/robotgo"
 	"github.com/vcaesar/imgo"
 	// "go-vgo/robotgo"
 )

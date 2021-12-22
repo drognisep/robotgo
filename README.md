@@ -119,7 +119,7 @@ sudo dnf install xsel xclip
 With Go module support (Go 1.11+), just import:
 
 ```go
-import "github.com/go-vgo/robotgo"
+import "github.com/drognisep/robotgo"
 ```
 
 Otherwise, to install the robotgo package, run the command:
@@ -147,7 +147,7 @@ Note go1.10.x C file compilation cache problem, [golang #24355](https://github.c
 package main
 
 import (
-  "github.com/go-vgo/robotgo"
+  "github.com/drognisep/robotgo"
 )
 
 func main() {
@@ -181,7 +181,7 @@ package main
 import (
   "fmt"
 
-  "github.com/go-vgo/robotgo"
+  "github.com/drognisep/robotgo"
 )
 
 func main() {
@@ -223,7 +223,7 @@ package main
 import (
   "fmt"
 
-  "github.com/go-vgo/robotgo"
+  "github.com/drognisep/robotgo"
   "github.com/vcaesar/imgo"
 )
 
@@ -254,7 +254,7 @@ package main
 import (
   "fmt"
 
-  "github.com/go-vgo/robotgo"
+  "github.com/drognisep/robotgo"
 )
 
 func main() {
@@ -291,7 +291,7 @@ import (
   "fmt"
   "math/rand"
 
-  "github.com/go-vgo/robotgo"
+  "github.com/drognisep/robotgo"
   "github.com/vcaesar/gcv"
 )
 
@@ -352,7 +352,7 @@ package main
 import (
   "fmt"
 
-  "github.com/go-vgo/robotgo"
+  "github.com/drognisep/robotgo"
   hook "github.com/robotn/gohook"
 )
 
@@ -413,7 +413,7 @@ package main
 import (
   "fmt"
 
-  "github.com/go-vgo/robotgo"
+  "github.com/drognisep/robotgo"
 )
 
 func main() {
